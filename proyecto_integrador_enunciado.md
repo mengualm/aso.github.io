@@ -8,7 +8,7 @@
 
 ## 🎯 Objetivo del proyecto
 
-El alumno deberá **diseñar, implementar y documentar** un entorno de sistemas que cumpla los requisitos de la empresa, aplicando los contenidos de todas las UDs.
+El equipo/grupo deberá **diseñar, implementar y documentar** un entorno de sistemas que cumpla los requisitos de la empresa, aplicando los contenidos de todas las UDs.
 
 ---
 
