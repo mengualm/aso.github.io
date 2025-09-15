@@ -26,7 +26,7 @@
 ---
 
 👉 Con esta rúbrica, un alumno o grupo que cumpla con todo de manera profesional tendría un 9-10.
-👉 Si solo cubren lo básico y con fallos, estarían en un 5-6.
-👉 Si no consiguen integrar servicios ni entregar documentación, suspenderían.
+👉 Si solo se cubre lo básico y con fallos, estarían en un 5-6.
+👉 Si no se consigue integrar servicios ni entregar documentación, suspenderían.
 
 ---
