@@ -1,9 +1,3 @@
-Perfecto 🚀 Entiendo lo que quieres: un **proyecto integrador final** para el módulo de *Administración de Sistemas Operativos* que recoja de manera práctica todas las competencias trabajadas en las Unidades Didácticas (UD).
-
-Te propongo un **caso realista de empresa** que los alumnos puedan simular en el aula, donde actúan como administradores de sistemas recién contratados y deben montar, configurar y administrar toda la infraestructura.
-
----
-
 ## 🏢 Caso empresarial propuesto
 
 **Empresa ficticia:** *TechSolutions S.L.*
